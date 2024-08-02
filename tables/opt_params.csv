@@ -1,0 +1,8 @@
+,model,conf_opt,iou_opt
+0,best_yolov8x.pt,0.5125125125125125,0.5
+1,best_yolov8x-worldv2.pt,0.4954954954954955,0.5
+2,last_yolov8l.pt,0.4124124124124124,0.5
+3,best_yolov8l-worldv2.pt,0.5335335335335335,0.5
+4,best_yolov8m-worldv2.pt,0.4934934934934935,0.5
+5,best_yolov8m.pt,0.5005005005005005,0.5
+6,best_yolov8s.pt,0.4134134134134134,0.5
