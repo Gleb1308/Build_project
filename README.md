@@ -22,4 +22,4 @@ python train.py --data_path <path to data> --model_path <path to model config fi
 --n_freeze <number of first layers to ynbfreeze during training>
 ```
 Detailed information you can get by such command - python train.py --help
-<br>Also you can review all training\testing process in the jupyter notebook - 'train\test_notebook.ipynb'.
+<br>Also you can review all training\testing process in the jupyter notebook - 'train\test_notebook.ipynb' and examples of usage above commands - 'examples.ipynb'
