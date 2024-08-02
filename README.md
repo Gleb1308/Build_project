@@ -19,6 +19,7 @@ Detailed information you can get by such command - python infer.py --help
 If you would like to train detector on your own dataset you can file train.py:
 ```bash
 python train.py --data_path <path to data> --model_path <path to model config file> --epochs <num epochs to train> \
---n_freeze <number of first layers to freeze during training>
+--n_freeze <number of first layers to ynbfreeze during training>
 ```
 Detailed information you can get by such command - python train.py --help
+<br>Also you can review all training\testing process in jupyter notebook - 'train\test_notebook.ipynb'.
